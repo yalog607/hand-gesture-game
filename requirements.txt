@@ -1,0 +1,5 @@
+opencv-python>=4.8
+mediapipe==0.10.21
+pygame>=2.5
+numpy<2
+pynput>=1.7   # chỉ cần khi dùng chế độ giả lập phím cho game khác
